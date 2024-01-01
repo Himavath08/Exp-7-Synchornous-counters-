@@ -120,7 +120,8 @@ endmodule
 
 ### TRUTH TABLE 
 
-![Uploading 293361980-e6ff8e0f-9248-4fa0-b05f-cbe39e102dcf.png…]()
+![293361980-e6ff8e0f-9248-4fa0-b05f-cbe39e102dcf](https://github.com/Himavath08/Exp-7-Synchornous-counters-/assets/139110631/40f97132-fa15-4669-b02e-61eb690ac7d8)
+
 
 ### RESULTS 
 By this we have verified the truth table of 4-bit up-counter using verilog.
